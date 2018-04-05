@@ -1,0 +1,2 @@
+ethminer.exe --help
+pause
