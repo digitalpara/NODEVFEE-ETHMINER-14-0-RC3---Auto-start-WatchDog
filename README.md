@@ -25,7 +25,7 @@ Donations
 Features
 Simple script (Windows/Linux) WachDog for ETHminer.
 
-ETHminerWatchDogDmW:
+ETHminerWatchDog-SMSK:
 
 Run ethminer
 Restart ethminer up to 4 times
