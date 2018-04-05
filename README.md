@@ -1,4 +1,4 @@
-# NODEVFEE-ETHMINER-14-3---Auto-start-WatchDog
+# NODEVFEE-ETHMINER-14-0-RC3---Auto-start-WatchDog
 Features
 OpenCL mining
 Nvidia CUDA mining
